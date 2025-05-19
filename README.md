@@ -95,6 +95,3 @@ Algoritmaların performans karşılaştırması:
 Senaryo 1 (5 drone, 20 teslimat, 2 uçuş yasak bölgesi) için karşılaştırma:
 ![Algoritma Karşılaştırması](cikti/senaryo1_karsilastirma.png)
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
