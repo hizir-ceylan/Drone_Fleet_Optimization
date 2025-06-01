@@ -19,7 +19,7 @@ Teslimat hizmeti sunan bir lojistik firması için farklı ağırlık ve önceli
 
 1. Projeyi indirin veya klonlayın:
 ```
-git clone https://github.com/kullanici/drone-fleet-optimization.git
+git clone https://github.com/hizir-ceylan/drone-fleet-optimization.git
 cd drone-fleet-optimization
 ```
 
